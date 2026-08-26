@@ -15,4 +15,3 @@
 2. Marcos Maulaz Cardoso Bhering
 3. @lsabreu-ia
 4. thiagocosouza
-5. mauro (@mvicotcma)
